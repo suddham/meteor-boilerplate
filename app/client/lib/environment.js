@@ -1,0 +1,1 @@
+/* configuration of client side packages */

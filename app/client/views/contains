@@ -1,0 +1,2 @@
+<view>.html -> templates specific to a single view
+<view>.js -> and the JS to hook it up
